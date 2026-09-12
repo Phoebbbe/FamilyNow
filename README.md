@@ -8,7 +8,7 @@ FamilyNow 是一个面向年轻合租群体的生活协作工具，集中管理�
 
 当前版本为无需安装的单文件交互 Demo：
 
-- [打开 FamilyNow Demo](./FamilyNow.html)
+- [打开 FamilyNow Demo](./index.html.html)
 - 直接双击 `FamilyNow.html` 也可以在浏览器中运行
 - 演示数据仅保存在当前浏览器，不包含任何真实个人信息
 
